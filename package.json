@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DayseDev/Reprograma-Projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DayseDev/Reprograma-Projeto1/issues"
+  },
+  "homepage": "https://github.com/DayseDev/Reprograma-Projeto1#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
